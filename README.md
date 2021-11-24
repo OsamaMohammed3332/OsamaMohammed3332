@@ -1,4 +1,3 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 <h1 align="center">Hi, I'm Mohamed 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
