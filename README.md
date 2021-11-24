@@ -6,4 +6,4 @@
   
   <img src="https://github.com/OsamaMohammed3332/OsamaMohammed3332/blob/main/profile.png" align="right" width="25%"/>
 
-<P class="fs-1">Hello, I am osama. Junior Django developer with front end basics: Html, CSS, JavaScript, Bootstrap, jQuery, react. To help me in my work and I have 1 year of experience in python.</p>
+<P >Hello, I am osama. Junior Django developer with front end basics: Html, CSS, JavaScript, Bootstrap, jQuery, react. To help me in my work and I have 1 year of experience in python.</p>
