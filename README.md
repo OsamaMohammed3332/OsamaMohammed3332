@@ -8,8 +8,8 @@
 
 <p>Hello, I am osama. Junior Django developer with front end basics: Html, CSS, JavaScript, Bootstrap, jQuery, react. To help me in my work and I have 1 year of experience in python.</p>
 <p>My Project link:-</p>
-  -> Job-Board: https://osama3332.pythonanywhere.com
+  -> <a href="https://osama3332.pythonanywhere.com">Job-Board</a>
   <br>
-  -> Library management system :https://osama2223.pythonanywhere.com
+  -> <a href="https://osama2223.pythonanywhere.com">Library management system</a>
   
 
