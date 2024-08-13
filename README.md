@@ -7,11 +7,7 @@
   
   <img src="https://github.com/OsamaMohammed3332/OsamaMohammed3332/blob/main/profile.png" align="right" width="25%"/>
 
-<p>Welcome to my profile, I am a computer science and artificial intelligence student with over 
-two years of experience in Django web development and mobile 
-application development using Flutter. Currently, I work as a 
-Software Developer at AUC (The American University in Cairo). I am 
-dedicated to delivering high-quality software solutions.</p>
+<p>Welcome to my profile. I am a Computer Science and Artificial Intelligence graduate from Beni Suef University, class of 2024. With over two years of experience in mobile app development, I have honed my skills as a Flutter developer. Currently, I work as a Flutter developer at GameChanger Solutions and The American University in Cairo (AUC), creating innovative and efficient mobile applications. My expertise lies in crafting smooth, responsive user interfaces and developing robust app architectures using Flutter.</p>
 <p>My Project :-</p>
   -> <a href="https://osama3332.pythonanywhere.com" target="_blank">Job-Board</a>
   <br>
