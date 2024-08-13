@@ -11,12 +11,12 @@
 <p>My Project :-</p>
   -> <a href="https://osamamohammed3332.github.io/My-Portfolio/?project=9" target="_blank">GameChanger Research</a>
   <br>
-  -> <a href="[https://osama3332.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=6)" target="_blank">FAIT (Fitness AI Trainer)</a>
+  -> <a href="https://osama3332.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=6" target="_blank">FAIT (Fitness AI Trainer)</a>
   <br>
-  -> <a href="[https://osama3332.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=5)" target="_blank">Attendfy</a>
+  -> <a href="https://osama3332.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=5" target="_blank">Attendfy</a>
   <br>
-  -> <a href="[https://osama3332.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=1)" target="_blank">Job-Board</a>
+  -> <a href="https://osama3332.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=1" target="_blank">Job-Board</a>
   <br>
-  -> <a href="[https://osama2223.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=0)" target="_blank">Library management system</a>
+  -> <a href="https://osama2223.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=0" target="_blank">Library management system</a>
   
 
