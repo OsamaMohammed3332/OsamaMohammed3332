@@ -9,8 +9,14 @@
 
 <p>Welcome to my profile. I am a Computer Science and Artificial Intelligence graduate from Beni Suef University, class of 2024. With over two years of experience in mobile app development, I have honed my skills as a Flutter developer. Currently, I work as a Flutter developer at GameChanger Solutions and The American University in Cairo (AUC), creating innovative and efficient mobile applications. My expertise lies in crafting smooth, responsive user interfaces and developing robust app architectures using Flutter.</p>
 <p>My Project :-</p>
-  -> <a href="https://osama3332.pythonanywhere.com" target="_blank">Job-Board</a>
+  -> <a href="https://osamamohammed3332.github.io/My-Portfolio/?project=9" target="_blank">GameChanger Research</a>
   <br>
-  -> <a href="https://osama2223.pythonanywhere.com" target="_blank">Library management system</a>
+  -> <a href="[https://osama3332.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=6)" target="_blank">FAIT (Fitness AI Trainer)</a>
+  <br>
+  -> <a href="[https://osama3332.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=5)" target="_blank">Attendfy</a>
+  <br>
+  -> <a href="[https://osama3332.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=1)" target="_blank">Job-Board</a>
+  <br>
+  -> <a href="[https://osama2223.pythonanywhere.com](https://osamamohammed3332.github.io/My-Portfolio/?project=0)" target="_blank">Library management system</a>
   
 
