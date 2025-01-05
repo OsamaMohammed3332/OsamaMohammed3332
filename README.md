@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/0sama-m0" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
     <a href="mailto:osamamhmed3332@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-    <a href="https://www.upwork.com/freelancers/~01945d3f516a574489?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"></a>
+    <a href="https://www.upwork.com/freelancers/~01945d3f516a574489?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white" alt="Upwork"></a>
   </p>
   
   <img src="https://github.com/OsamaMohammed3332/OsamaMohammed3332/blob/main/profile.png" align="right" width="25%"/>
