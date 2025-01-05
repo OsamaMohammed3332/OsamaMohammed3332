@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Flutter Developer with a degree in Computer Science and Artificial Intelligence from Beni Suef University (Class of 2024). With over two years of hands-on experience, I specialize in creating elegant, efficient mobile applications that deliver exceptional user experiences.
+I am a Computer Science and Artificial Intelligence graduate from Beni Suef University, class of 2024. With over two years of experience in mobile app development, I have honed my skills as a Flutter developer. Currently, I work as a Flutter developer at GameChanger Solutions and The American University in Cairo (AUC), creating innovative and efficient mobile applications. My expertise lies in crafting smooth, responsive user interfaces and developing robust app architectures using Flutter.
 
 ### 🎯 Current Roles
 - Flutter Developer at GameChanger Solutions
