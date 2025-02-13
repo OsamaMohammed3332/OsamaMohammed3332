@@ -18,11 +18,11 @@ I am a Computer Science and Artificial Intelligence graduate from Beni Suef Univ
 
 ## 🚀 Featured Projects
 
-- [GameChanger Research](https://osamamohammed3332.github.io/My-Portfolio/?project=9)
-- [FAIT (Fitness AI Trainer)](https://osamamohammed3332.github.io/My-Portfolio/?project=6)
-- [Attendfy](https://osamamohammed3332.github.io/My-Portfolio/?project=5)
-- [Job-Board](https://osamamohammed3332.github.io/My-Portfolio/?project=1)
-- [Library Management System](https://osamamohammed3332.github.io/My-Portfolio/?project=0)
+- [GameChanger Research](https://osama-site.web.app/?project=9)
+- [FAIT (Fitness AI Trainer)](https://osama-site.web.app/?project=6)
+- [Attendfy](https://osama-site.web.app/?project=5)
+- [Job-Board](https://osama-site.web.app/?project=1)
+- [Library Management System](https://osama-site.web.app/?project=0)
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat about mobile development!
