@@ -10,11 +10,9 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science and Artificial Intelligence graduate from Beni Suef University, class of 2024. With over two years of experience in mobile app development, I have honed my skills as a Flutter developer. Currently, I work as a Flutter developer at GameChanger Solutions and The American University in Cairo (AUC), creating innovative and efficient mobile applications. My expertise lies in crafting smooth, responsive user interfaces and developing robust app architectures using Flutter.
+Flutter Developer with 3+ years of hands-on experience using Dart, Flutter SDK, Riverpod, RESTful APIs, and Firebase. Additionally, 1 year of experience in backend development with Django, enhancing full-stack capabilities. Successfully led end-to-end feature development at GameChanger Solutions—turning research prototypes into a flagship app. Built Google ML-powered, eye-tracking Flutter game at AUC (The American University in Cairo), demonstrating strong problem-solving and full-lifecycle development. Skilled in CI/CD practices, clean code practices, performance optimization, and collaborating with cross-functional teams to enhance user engagement and reliability.
 
-### 🎯 Current Roles
-- Flutter Developer at GameChanger Solutions
-- Flutter Developer at The American University in Cairo (AUC)
+
 
 ## 🚀 Featured Projects
 
