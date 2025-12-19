@@ -28,4 +28,5 @@ Flutter Developer with 3+ years of hands-on experience using Dart, Flutter SDK, 
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat about mobile development!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OsamaMohammed3332&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OsamaMohammed3332&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
