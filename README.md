@@ -29,6 +29,3 @@ Flutter Developer with 3+ years of hands-on experience using Dart, Flutter SDK, 
 Feel free to reach out for collaborations or just a friendly chat about mobile development!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsamaMohammed3332&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🧠 My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OsamaMohammed3332&layout=compact&theme=dark)
