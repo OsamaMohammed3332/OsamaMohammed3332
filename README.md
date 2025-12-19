@@ -10,12 +10,14 @@
 
 ## 👨‍💻 About Me
 
-Flutter Developer with 3+ years of hands-on experience using Dart, Flutter SDK, Riverpod, RESTful APIs, and Firebase. Additionally, 1 year of experience in backend development with Django, enhancing full-stack capabilities. Successfully led end-to-end feature development at GameChanger Solutions—turning research prototypes into a flagship app. Built Google ML-powered, eye-tracking Flutter game at AUC (The American University in Cairo), demonstrating strong problem-solving and full-lifecycle development. Skilled in CI/CD practices, clean code practices, performance optimization, and collaborating with cross-functional teams to enhance user engagement and reliability.
+Flutter Developer with 3+ years of hands-on experience using Dart, Flutter SDK, Riverpod, Bloc, RESTful APIs, and Firebase. Additionally, 1 year of experience in backend development with Django, enhancing full-stack capabilities. Successfully led end-to-end feature development at GameChanger Solutions—turning research prototypes into a flagship app. Built Google ML-powered, eye-tracking Flutter game at AUC (The American University in Cairo), demonstrating strong problem-solving and full-lifecycle development. Skilled in CI/CD practices, clean code practices, performance optimization, and collaborating with cross-functional teams to enhance user engagement and reliability.
 
 
 
 ## 🚀 Featured Projects
 
+- [REFA App](https://osama-site.web.app/?project=13)
+- [Trex Logistic](https://osama-site.web.app/?project=12)
 - [GameChanger Research](https://osama-site.web.app/?project=9)
 - [FAIT (Fitness AI Trainer)](https://osama-site.web.app/?project=6)
 - [Mulhum](https://osama-site.web.app/?project=10)
@@ -26,4 +28,4 @@ Flutter Developer with 3+ years of hands-on experience using Dart, Flutter SDK, 
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat about mobile development!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsamaMohammed3332&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OsamaMohammed3332&theme=dark&hide_border=true)](https://git.io/streak-stats)
