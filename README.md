@@ -10,7 +10,16 @@
 
 ## 👨‍💻 About Me
 
-Flutter Developer with 3+ years of hands-on experience using Dart, Flutter SDK, Riverpod, Bloc, RESTful APIs, and Firebase. Additionally, 1 year of experience in backend development with Django, enhancing full-stack capabilities. Successfully led end-to-end feature development at GameChanger Solutions—turning research prototypes into a flagship app. Built Google ML-powered, eye-tracking Flutter game at AUC (The American University in Cairo), demonstrating strong problem-solving and full-lifecycle development. Skilled in CI/CD practices, clean code practices, performance optimization, and collaborating with cross-functional teams to enhance user engagement and reliability.
+I am a Software Engineer specializing in cross-platform and native mobile development. Over the past 3+ years, I have focused on engineering high-performance, scalable applications, transforming complex research prototypes into production-ready flagship products. While my core expertise is in Flutter and Dart, I am passionate about bridging the gap between cross-platform efficiency and native performance. I build custom Method Channels and integrate Native Platform UIs (Kotlin/Jetpack Compose for Android & Swift/SwiftUI for iOS) to ensure seamless, high-fidelity user experiences that standard plugins can't always achieve.
+
+MY TECHNICAL HIGHLIGHTS: 
+• Architecture & State: Clean Architecture, MVVM, Bloc, and Riverpod. 
+• Native Integration: Engineering custom bridges for complex hardware access and native UI rendering. 
+• Specialized Logic: Integrating Google Machine Learning for real-time eye-tracking and implementing secure custom payment gateways. 
+• Engineering Standards: Strict adherence to SOLID principles, optimized CI/CD pipelines, and robust client-side data handling.
+Whether it’s collaborating with cross-functional teams to hit critical milestones or owning end-to-end development as a solo engineer, I focus on delivering clean code and exceptional user engagement.
+
+TECH STACK: Flutter | Dart | Kotlin | Swift | Jetpack Compose | SwiftUI | Firebase | RESTful APIs
 
 
 
