@@ -27,9 +27,9 @@ TECH STACK: Flutter | Dart | Kotlin | Swift | Jetpack Compose | SwiftUI | Fireba
 
 - [REFA App](https://osama-site.web.app/?project=13)
 - [Trex Logistic](https://osama-site.web.app/?project=12)
-- [GameChanger Research](https://osama-site.web.app/?project=9)
+- [GameChanger Research](https://osama-site.web.app/?project=10)
 - [FAIT (Fitness AI Trainer)](https://osama-site.web.app/?project=6)
-- [Mulhum](https://osama-site.web.app/?project=10)
+- [Mulhum](https://osama-site.web.app/?project=9)
 - [Attendfy](https://osama-site.web.app/?project=5)
 - [Job-Board](https://osama-site.web.app/?project=1)
 - [Library Management System](https://osama-site.web.app/?project=0)
