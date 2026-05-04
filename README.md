@@ -36,5 +36,3 @@ TECH STACK: Flutter | Dart | Kotlin | Swift | Jetpack Compose | SwiftUI | Fireba
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat about mobile development!
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsamaMohammed3332&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
