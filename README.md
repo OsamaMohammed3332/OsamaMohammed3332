@@ -10,14 +10,8 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer specializing in cross-platform and native mobile development. Over the past 3+ years, I have focused on engineering high-performance, scalable applications, transforming complex research prototypes into production-ready flagship products. While my core expertise is in Flutter and Dart, I am passionate about bridging the gap between cross-platform efficiency and native performance. I build custom Method Channels and integrate Native Platform UIs (Kotlin/Jetpack Compose for Android & Swift/SwiftUI for iOS) to ensure seamless, high-fidelity user experiences that standard plugins can't always achieve.
+I am a Software Engineer specializing in cross-platform development, backed by a solid knowledge of native mobile ecosystems. I focus on engineering high-performance, scalable applications and transforming innovative ideas into polished, production-ready mobile apps. While my core expertise is in Flutter and Dart, I leverage my native capabilities to bridge the gap between cross-platform efficiency and true native performance. By building custom Method Channels and integrating Native Platform UIs (Kotlin/Jetpack Compose for Android & Swift/SwiftUI for iOS), I ensure seamless, high-fidelity user experiences that standard plugins cannot always achieve.
 
-MY TECHNICAL HIGHLIGHTS: 
-• Architecture & State: Clean Architecture, MVVM, Bloc, and Riverpod. 
-• Native Integration: Engineering custom bridges for complex hardware access and native UI rendering. 
-• Specialized Logic: Integrating Google Machine Learning for real-time eye-tracking and implementing secure custom payment gateways. 
-• Engineering Standards: Strict adherence to SOLID principles, optimized CI/CD pipelines, and robust client-side data handling.
-Whether it’s collaborating with cross-functional teams to hit critical milestones or owning end-to-end development as a solo engineer, I focus on delivering clean code and exceptional user engagement.
 
 TECH STACK: Flutter | Dart | Kotlin | Swift | Jetpack Compose | SwiftUI | Firebase | RESTful APIs
 
