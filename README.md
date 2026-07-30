@@ -10,7 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer specializing in cross-platform development, backed by a solid knowledge of native mobile ecosystems. I focus on engineering high-performance, scalable applications and transforming innovative ideas into polished, production-ready mobile apps. While my core expertise is in Flutter and Dart, I leverage my native capabilities to bridge the gap between cross-platform efficiency and true native performance. By building custom Method Channels and integrating Native Platform UIs (Kotlin/Jetpack Compose for Android & Swift/SwiftUI for iOS), I ensure seamless, high-fidelity user experiences that standard plugins cannot always achieve.
+As a Flutter Developer at Bsma ERP, I build the mobile client for an enterprise ERP platform used to run daily business operations. My work centers on performance and stability, most recently leading a rendering overhaul that raised the app's frame rate from 25 FPS to a near-native 58 FPS, a 132% improvement in perceived fluidity.
+
+Holding a BSc in Computer Science and Artificial Intelligence from Beni-Suef University, I bring expertise in Flutter and Dart, Clean Architecture, and state management with Riverpod and Bloc. Where cross-platform reaches its limits, I bridge into native, building custom Method Channels to execute platform logic and render native UI in Kotlin/Jetpack Compose and Swift/SwiftUI directly inside the Flutter view hierarchy.
+
+My professional journey spans academic research, logistics, real estate, and consumer products. As the sole mobile engineer on REFA, I took a property rental platform from an empty repository to live releases on both the App Store and Google Play, building interactive maps, deep linking, and an integrated payment gateway with custom instalment logic. Earlier, I transformed GameChanger from a research prototype into the company's flagship product, and engineered real-time eye-tracking applications with Google Machine Learning for The American University in Cairo, which I presented at the Cognitive Psychology Conference.
 
 
 TECH STACK: Flutter | Dart | Kotlin | Swift | Jetpack Compose | SwiftUI | Firebase | RESTful APIs
