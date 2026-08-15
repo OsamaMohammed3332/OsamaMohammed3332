@@ -13,11 +13,11 @@
 
 ## About
 
-I'm a **Flutter Developer at Bsma ERP**, where I build the mobile client for an enterprise ERP platform used to run daily business operations. My work centres on performance and stability — most recently I led a rendering overhaul that took the app from **25 FPS to a near-native 58 FPS**, a 132% improvement in perceived fluidity.
+I'm a **Flutter Developer at Bsma ERP**, where I build the mobile client for an enterprise ERP platform that runs daily business operations. My work centres on performance and stability. Most recently, I led a rendering overhaul that took the app from **25 FPS to a near-native 58 FPS**, a 132% improvement in perceived fluidity.
 
-I hold a **BSc in Computer Science and Artificial Intelligence** from Beni-Suef University. Day to day I work in Flutter and Dart with Clean Architecture and state management in Riverpod and Bloc. Where cross-platform reaches its limits I bridge into native — writing custom Method Channels to execute platform logic and render native UI in **Kotlin/Jetpack Compose** and **Swift/SwiftUI** directly inside the Flutter view hierarchy.
+I hold a **BSc in Computer Science and Artificial Intelligence** from Beni-Suef University. Day-to-day, I work in Flutter and Dart with Clean Architecture and state management in Riverpod and Bloc. Where cross-platform reaches its limits, I bridge into native by writing custom Method Channels to execute platform logic and render native UI in **Kotlin/Jetpack Compose** and **Swift/SwiftUI** directly inside the Flutter view hierarchy.
 
-My work spans academic research, logistics, real estate and consumer products. As the sole mobile engineer on **REFA**, I took a property rental platform from an empty repository to live releases on both the App Store and Google Play — interactive maps, deep linking, and an integrated payment gateway with custom instalment logic. Earlier I turned **GameChanger** from a research prototype into the company's flagship product, and engineered real-time eye-tracking applications with Google Machine Learning for **The American University in Cairo**, which I presented at the Cognitive Psychology Conference.
+My work spans academic research, logistics, real estate, and consumer products. As the sole mobile engineer on **REFA**, I took a property rental platform from an empty repository to live releases on both the App Store and Google Play, with interactive maps, deep linking, and an integrated payment gateway with custom instalment logic. Earlier, I turned **GameChanger** from a research prototype into the company's flagship product, and engineered real-time eye-tracking applications with Google Machine Learning for **The American University in Cairo**, which I presented at the Cognitive Psychology Conference.
 
 ---
 
