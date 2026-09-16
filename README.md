@@ -15,11 +15,11 @@
 
 iOS engineer with 4+ years shipping applications to production on the App Store. I build natively in **Swift and SwiftUI** with MVVM, Clean Architecture, Swift 6 Concurrency and UIKit interoperability, and I own the full release lifecycle from architecture through App Store Connect.
 
-As **Senior iOS Developer at Bsma ERP**, I own the iOS client for a multi-tenant enterprise ERP product used to run daily business operations: SwiftUI and Clean Architecture, API integration, and every App Store release. Recent work has focused on performance — cutting load times and eliminating UI stutter on the heaviest screens.
+As **Senior iOS Developer at Bsma ERP**, I own the iOS client for a multi-tenant enterprise ERP product used to run daily business operations: SwiftUI and Clean Architecture, API integration, and every App Store release. Recent work has focused on performance, cutting load times and eliminating UI stutter on the heaviest screens.
 
-Holding a **BSc in Computer Science and Artificial Intelligence** from Beni-Suef University, I work across Swift, SwiftUI, UIKit and Swift 6 Concurrency, with URLSession, Codable, Keychain, SwiftData, MapKit, deep linking, push notifications and payment gateway integration, shipping through Xcode, TestFlight and GitHub Actions.
+Holding a **BSc in Computer Science and Artificial Intelligence** from Beni-Suef University, I work across Swift, SwiftUI, UIKit, and Swift 6 Concurrency, with URLSession, Codable, Keychain, SwiftData, MapKit, deep linking, push notifications, and payment gateway integration, shipping through Xcode, TestFlight, and GitHub Actions.
 
-My work spans academic research, logistics, real estate and consumer products. As the sole iOS engineer on **REFA**, I took a property rental platform from an empty repository to live on the App Store — interactive maps, deep linking, Keychain-backed storage and an integrated payment gateway with custom instalment logic. Earlier I transformed **GameChanger** from a research prototype into the company's flagship product, and engineered real-time eye-tracking research applications for **The American University in Cairo**, which I presented at the Cognitive Psychology Conference.
+My work spans academic research, logistics, real estate and consumer products. As the sole iOS engineer on **REFA**, I took a property rental platform from an empty repository to live on the App Store, with interactive maps, deep linking, Keychain-backed storage and an integrated payment gateway with custom instalment logic. Earlier, I transformed **GameChanger** from a research prototype into the company's flagship product, and engineered real-time eye-tracking research applications for **The American University in Cairo**, which I presented at the Cognitive Psychology Conference.
 
 ---
 
@@ -29,7 +29,7 @@ My work spans academic research, logistics, real estate and consumer products. A
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://osama-site.web.app/?project=13">REFA</a></h4>
-      Property rental platform built and shipped solo, from an empty repository to live on the App Store — owning the codebase, review submissions and every release. Moyasar payment SDK with custom instalment logic, interactive maps, deep linking and Keychain-backed storage.
+      Property rental platform built and shipped solo, from an empty repository to live on the App Store, owning the codebase, review submissions and every release. Moyasar payment SDK with custom instalment logic, interactive maps, deep linking and Keychain-backed storage.
       <br><sub><b>Swift · MVVM · MapKit · Payments · Keychain</b></sub>
     </td>
     <td width="50%" valign="top">
@@ -41,7 +41,7 @@ My work spans academic research, logistics, real estate and consumer products. A
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://osama-site.web.app/?project=10">GameChanger</a></h4>
-      Research prototype rebuilt into the company's flagship product. Architected the core feature set, shipped it end to end across iOS releases, and streamlined the CI/CD pipeline.
+      Research prototype rebuilt into the company's flagship product. Architected the core feature set, shipped it end-to-end across iOS releases, and streamlined the CI/CD pipeline.
       <br><sub><b>Swift · Clean Architecture · CI/CD</b></sub>
     </td>
     <td width="50%" valign="top">
