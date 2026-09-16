@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="34" viewBox="0 0 112 34" role="img" aria-label="Portfolio">
+  <title>Portfolio</title>
+  <defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".13"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".10"/>
+  </linearGradient></defs>
+  <rect width="112" height="34" rx="9" fill="#1F2937"/>
+  <rect width="112" height="34" rx="9" fill="url(#s)"/>
+  <g transform="translate(13 8.5) scale(0.708333)" fill="#FFFFFF"><path d="M12 1.75A10.25 10.25 0 1 0 22.25 12 10.26 10.26 0 0 0 12 1.75zm6.9 6.6h-2.72a14.9 14.9 0 0 0-1.6-4.06 8.28 8.28 0 0 1 4.32 4.06zM12 3.85a13.2 13.2 0 0 1 1.94 4.5h-3.88A13.2 13.2 0 0 1 12 3.85zM3.9 12a8.2 8.2 0 0 1 .28-2.1h3.12a17.3 17.3 0 0 0 0 4.2H4.18A8.2 8.2 0 0 1 3.9 12zm.98 3.65H7.6a14.9 14.9 0 0 0 1.6 4.06 8.28 8.28 0 0 1-4.32-4.06zM7.6 8.35H4.88A8.28 8.28 0 0 1 9.2 4.29a14.9 14.9 0 0 0-1.6 4.06zM12 20.15a13.2 13.2 0 0 1-1.94-4.5h3.88A13.2 13.2 0 0 1 12 20.15zm2.31-6.25H9.69a15.5 15.5 0 0 1 0-3.8h4.62a15.5 15.5 0 0 1 0 3.8zm.49 5.81a14.9 14.9 0 0 0 1.6-4.06h2.72a8.28 8.28 0 0 1-4.32 4.06zm2.02-5.81a17.3 17.3 0 0 0 0-4.2h3.12a8.24 8.24 0 0 1 0 4.2z"/></g>
+  <text x="39" y="17" dy=".35em" fill="#FFFFFF" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="13" font-weight="600" textLength="57.5" lengthAdjust="spacingAndGlyphs">Portfolio</text>
+</svg>
